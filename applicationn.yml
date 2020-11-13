@@ -1,0 +1,12 @@
+my:
+  Greeting: Bonjour du service de configuration
+  list:
+     Values: valeur1, valeur2, valeur3
+db:
+  connection: connection-à-partir-du-service-Config
+  host: 127.0.0.1
+  port: 1200
+
+User:
+  Role:User
+     Pwd:admin
